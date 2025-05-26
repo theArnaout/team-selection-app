@@ -1,9 +1,6 @@
 //  Student.java
 //
 //  Mohamad Arnaout
-//  T00765395
-//  COMP 1231 Assignment 4
-//  Thursday, April 24, 2025.
 //
 //  This class represents a Student with a name and cumulative GPA.
 //  It implements Comparable to allow sorting by cumulative GPA.
