@@ -1,9 +1,6 @@
 //  Driver.java
 //
 //  Mohamad Arnaout
-//  T00765395
-//  COMP 1231 Assignment 4
-//  Thursday, April 24, 2025.
 //
 //  This driver class tests the student selection process for the competition team.
 //  It creates a team, adds students, filters by standard cGPA, removes the last
