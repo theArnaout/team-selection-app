@@ -1,9 +1,6 @@
 //  Team.java
 //
 //  Mohamad Arnaout
-//  T00765395
-//  COMP 1231 Assignment 4
-//  Thursday, April 24, 2025.
 //
 //  This is a generic class that manages a team of members using
 //  ArrayList. It implements Iterable to allow iteration over the
